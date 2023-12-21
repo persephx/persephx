@@ -18,7 +18,7 @@ Bem-vindo ao meu perfil no GitHub! Aqui você encontrará projetos relacionados 
 
 ## Estatísticas do GitHub
 
-[![Estatísticas do GitHub de Nicoli](https://github-readme-stats.vercel.app/api?username=seu-nome-de-usuário&show_icons=true&theme=radical)](https://github.com/seu-nome-de-usuário)
+[![Estatísticas do GitHub de Nicoli](https://github-readme-stats.vercel.app/api?Persephx&show_icons=true&theme=radical)](https://github.com/seu-nome-de-usuário)
 
 ## Entre em Contato
 
