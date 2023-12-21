@@ -7,7 +7,6 @@ Bem-vindo ao meu perfil no GitHub! Aqui você encontrará projetos relacionados 
 - 🌱 Atualmente, estou focada em aprimorar minhas habilidades em desenvolvimento web.
 - 🎓 Sou apaixonada por tecnologia e estudo HTML, CSS e JavaScript.
 - 💬 Adoro aprender e compartilhar conhecimento com a comunidade.
-- 📫 Como entrar em contato comigo: [Adicione seu contato aqui, como e-mail ou redes sociais].
 
 
 <div align="center">
